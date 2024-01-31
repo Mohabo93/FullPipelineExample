@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21275f05-7bd4-4b79-9864-ed6da6751cf9" name="Changes" comment="added Clean to build command">
-      <change afterPath="$PROJECT_DIR$/.github/workflows/superLinter.yml" afterDir="false" />
-    </list>
+    <list default="true" id="21275f05-7bd4-4b79-9864-ed6da6751cf9" name="Changes" comment="Added SuperLint" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -126,12 +124,20 @@
       <option name="presentableId" value="LOCAL−00004" />
       <updated>1706696363644</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL−00005" summary="Added SuperLint">
+      <option name="closed" value="true" />
+      <created>1706696620842</created>
+      <option name="number" value="LOCAL−00005" />
+      <option name="presentableId" value="LOCAL−00005" />
+      <updated>1706696620842</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="edited .yml file" />
     <MESSAGE value="added Clean to build command" />
-    <option name="LAST_COMMIT_MESSAGE" value="added Clean to build command" />
+    <MESSAGE value="Added SuperLint" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added SuperLint" />
   </component>
 </project>

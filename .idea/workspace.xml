@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21275f05-7bd4-4b79-9864-ed6da6751cf9" name="Changes" comment="">
+    <list default="true" id="21275f05-7bd4-4b79-9864-ed6da6751cf9" name="Changes" comment="added Clean to build command">
       <change beforePath="$PROJECT_DIR$/.github/workflows/maven.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/maven.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Messenger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Messenger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/TestMessenger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/TestMessenger.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,6 +100,26 @@
       <option name="presentableId" value="Default" />
       <updated>1706688681834</updated>
     </task>
+    <task id="LOCAL−00001" summary="edited .yml file">
+      <option name="closed" value="true" />
+      <created>1706693364173</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1706693364173</updated>
+    </task>
+    <task id="LOCAL−00002" summary="added Clean to build command">
+      <option name="closed" value="true" />
+      <created>1706693644383</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1706693644383</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="edited .yml file" />
+    <MESSAGE value="added Clean to build command" />
+    <option name="LAST_COMMIT_MESSAGE" value="added Clean to build command" />
   </component>
 </project>
